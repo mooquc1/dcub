@@ -1,7 +1,7 @@
 {
   "title": "Please Give Me Energy",
   "description": "",
-  "cover": "https://i3.wp.com/omegascans.org/wp-content/uploads/2022/10/PGMEcover-1.jpg",
+  "cover": "https://omegascans.org/wp-content/uploads/2022/10/PGMEcover-1.jpg",
   "chapters": {
     "1": {
       "title": "Chapter 1",
@@ -31,6 +31,7 @@
       "volume": "",
       "groups": {
         "OmegaScans": [
+          "https://omegascans.org/wp-content/uploads/2022/10/PGME2-00_new-cred.jpg",
           "https://omegascans.org/wp-content/uploads/2022/10/PGME2-01-1.jpg",
           "https://omegascans.org/wp-content/uploads/2022/10/PGME2-02-1.jpg",
           "https://omegascans.org/wp-content/uploads/2022/10/PGME2-03-1.jpg",
@@ -455,6 +456,42 @@
           "https://omegascans.org/wp-content/uploads/2023/03/PGE26-09.jpg",
           "https://omegascans.org/wp-content/uploads/2023/03/PGE26-10.jpg",
           "https://omegascans.org/wp-content/uploads/2023/03/PGE26-11.jpg"
+        ]
+      }
+    },
+    "27": {
+      "title": "Chapter 27",
+      "volume": "",
+      "groups": {
+        "OmegaScans": [
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE27-01.jpg",
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE27-02.jpg",
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE27-03.jpg",
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE27-04.jpg",
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE27-05.jpg",
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE27-06.jpg",
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE27-07.jpg",
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE27-08.jpg",
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE27-09.jpg",
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE27-10.jpg"
+        ]
+      }
+    },
+    "28": {
+      "title": "Chapter 28",
+      "volume": "",
+      "groups": {
+        "OmegaScans": [
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE28-01.jpg",
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE28-02.jpg",
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE28-03.jpg",
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE28-04.jpg",
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE28-05.jpg",
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE28-06.jpg",
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE28-07.jpg",
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE28-08.jpg",
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE28-09.jpg",
+          "https://omegascans.org/wp-content/uploads/2023/03/PGE28-10.jpg"
         ]
       }
     }
